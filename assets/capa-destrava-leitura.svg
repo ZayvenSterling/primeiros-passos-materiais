@@ -1,0 +1,23 @@
+<svg width="420" height="560" viewBox="0 0 420 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bg" x1="32" y1="0" x2="400" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#FFEEE6"/><stop offset="1" stop-color="#FFD1C5"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-opacity=".13"/></filter></defs>
+  <rect width="420" height="560" rx="18" fill="url(#bg)"/>
+  <path d="M0 0h27v560H0z" fill="#E76B58"/><path d="M27 0h7v560h-7z" fill="#C65345" opacity=".35"/>
+  <circle cx="347" cy="88" r="75" fill="#F4C85D" opacity=".78"/>
+  <path d="M309 34c34 17 57 46 64 83" stroke="#FFF4D0" stroke-width="4" stroke-linecap="round" stroke-dasharray="3 11"/>
+  <text x="67" y="61" fill="#B54D40" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">100 MISSÕES PROGRESSIVAS</text>
+  <text x="64" y="133" fill="#143E3D" font-family="Georgia,serif" font-size="52" font-weight="700">Destrava</text>
+  <text x="64" y="187" fill="#143E3D" font-family="Georgia,serif" font-size="52" font-style="italic">Leitura</text>
+  <path d="M67 205c77 11 164 9 238-4" stroke="#E76B58" stroke-width="5" stroke-linecap="round"/>
+  <text x="67" y="238" fill="#42625F" font-family="Arial,sans-serif" font-size="13">Da sílaba à leitura com sentido</text>
+  <g filter="url(#s)">
+    <rect x="63" y="280" width="294" height="174" rx="20" fill="#FFFEF9"/>
+    <rect x="84" y="305" width="72" height="55" rx="10" fill="#F8D46F"/><text x="101" y="341" fill="#143E3D" font-family="Arial,sans-serif" font-size="21" font-weight="700">CA</text>
+    <rect x="173" y="305" width="72" height="55" rx="10" fill="#A9D9D1"/><text x="192" y="341" fill="#143E3D" font-family="Arial,sans-serif" font-size="21" font-weight="700">SA</text>
+    <path d="M156 333h17" stroke="#E76B58" stroke-width="3" stroke-linecap="round"/>
+    <path d="M118 386c36 23 79 32 119 20 30-9 53-29 83-21" stroke="#E76B58" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 10"/>
+    <circle cx="109" cy="386" r="9" fill="#E76B58"/><path d="M315 374l15 10-16 9" stroke="#143E3D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="85" y="438" fill="#42625F" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">SÍLABAS • PALAVRAS • FRASES</text>
+  </g>
+  <rect x="66" y="490" width="172" height="34" rx="17" fill="#143E3D"/><text x="85" y="512" fill="white" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">CADERNO DIGITAL</text>
+  <path d="M332 494l8 16 18 3-13 13 3 18-16-9-16 9 3-18-13-13 18-3z" fill="#F4C85D"/>
+</svg>
