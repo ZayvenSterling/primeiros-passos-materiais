@@ -1,9 +1,9 @@
 <svg width="560" height="720" viewBox="0 0 560 720" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="560" height="720" fill="#FFFEFA"/><rect x="28" y="28" width="504" height="664" rx="15" stroke="#E9E2D5" stroke-width="2"/>
-  <text x="63" y="79" fill="#C45243" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">MISSÃO 64</text><text x="63" y="123" fill="#163F3E" font-family="Georgia,serif" font-size="30" font-weight="700">Leia com sentido</text><text x="63" y="152" fill="#607371" font-family="Arial,sans-serif" font-size="13">Leia a frase e marque a resposta.</text>
+  <text x="63" y="79" fill="#C45243" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">MISS&#195;O 64</text><text x="63" y="123" fill="#163F3E" font-family="Georgia,serif" font-size="30" font-weight="700">Leia com sentido</text><text x="63" y="152" fill="#607371" font-family="Arial,sans-serif" font-size="13">Leia a frase e marque a resposta.</text>
   <path d="M63 178h434" stroke="#E8DED0"/>
   <rect x="63" y="214" width="434" height="87" rx="14" fill="#E8F4F0"/><text x="95" y="267" fill="#163F3E" font-family="Georgia,serif" font-size="21" font-weight="700">A menina rega a flor.</text>
   <g stroke="#607371" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M127 414v-72h86v72"/><path d="M154 341v-30h33v30"/><path d="M253 431c24-34 55-30 68 0"/><path d="M287 400v-69"/><path d="M287 354c-25-23-45 6-15 21"/><path d="M287 353c25-24 47 5 16 22"/><path d="M337 402l39-48"/><path d="M376 354l18 12"/></g><circle cx="397" cy="349" r="10" fill="#F5C95F"/>
-  <text x="64" y="494" fill="#163F3E" font-family="Arial,sans-serif" font-size="14" font-weight="700">O que a menina está fazendo?</text>
+  <text x="64" y="494" fill="#163F3E" font-family="Arial,sans-serif" font-size="14" font-weight="700">O que a menina est&#225; fazendo?</text>
   <g font-family="Arial,sans-serif" font-size="13" fill="#425F5D"><circle cx="76" cy="538" r="10" stroke="#B3C4C1" stroke-width="2"/><text x="98" y="543">Brincando com uma bola</text><circle cx="76" cy="581" r="10" fill="#E46D58"/><path d="M71 581l4 4 7-9" stroke="white" stroke-width="2"/><text x="98" y="586">Regando uma flor</text><circle cx="76" cy="624" r="10" stroke="#B3C4C1" stroke-width="2"/><text x="98" y="629">Lendo um livro</text></g>
 </svg>
