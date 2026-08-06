@@ -4,7 +4,7 @@
  * Todos os botões da página serão atualizados automaticamente.
  */
 window.CHECKOUT_URLS = Object.freeze({
-  destrava: "#CHECKOUT_DESTRAVA_LEITURA",
-  movimento: "#CHECKOUT_MOVIMENTO_EM_FOCO",
-  combo: "#CHECKOUT_COMBO_PRIMEIROS_PASSOS",
+  destrava: "https://pay.kiwify.com.br/AbLebrX",
+  movimento: "https://pay.kiwify.com.br/RYGeIGX",
+  combo: "https://pay.kiwify.com.br/6SNmGHo",
 });
