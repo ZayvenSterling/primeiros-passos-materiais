@@ -136,7 +136,8 @@ h2 { margin-bottom: 22px; font-size: clamp(37px, 4.4vw, 59px); font-weight: 500;
 .sample-tab.active { color: white; background: var(--teal-dark); }
 .sample-panel { display: grid; grid-template-columns: .85fr .85fr .75fr; align-items: center; gap: 28px; }
 .sample-panel[hidden] { display: none; }
-.sample-card { margin: 0; padding: 14px; background: white; border-radius: 16px; box-shadow: var(--shadow); }
+.sample-card { position: relative; margin: 0; padding: 14px; background: white; border-radius: 16px; box-shadow: var(--shadow); }
+.sample-card::after { content: "AMOSTRA"; position: absolute; top: 30px; right: 28px; z-index: 2; padding: 7px 11px; color: white; background: rgba(16,63,67,.88); border-radius: 999px; font-size: 9px; font-weight: 900; letter-spacing: .14em; box-shadow: 0 5px 16px rgba(16,63,67,.15); }
 .sample-card img { width: 100%; border: 1px solid #ebe7de; border-radius: 8px; }
 .sample-card figcaption { padding: 15px 6px 4px; color: var(--ink-soft); font-size: 12px; }
 .sample-card-b { transform: translateY(34px) rotate(2deg); }
@@ -191,6 +192,7 @@ h2 { margin-bottom: 22px; font-size: clamp(37px, 4.4vw, 59px); font-weight: 500;
 .price-card-top span { margin-bottom: 9px; color: var(--coral-dark); font-size: 9px; font-weight: 900; letter-spacing: .14em; text-transform: uppercase; }
 .movement-top span { color: var(--teal); }
 .combo-top span { color: #a4770a; }
+.combo-cover { width: 108px; aspect-ratio: 2 / 3; object-fit: cover; margin: 2px auto 16px; border-radius: 8px; box-shadow: 0 14px 28px rgba(21,62,61,.18); transform: rotate(-2deg); }
 .price-card-top strong { font-family: var(--serif); font-size: 30px; line-height: 1.05; }
 .price-description { min-height: 48px; margin: 14px 0 20px; color: var(--ink-soft); font-size: 12px; }
 .price-card ul { display: grid; gap: 11px; padding: 20px 0; margin: 0; border-top: 1px solid var(--line); list-style: none; }
